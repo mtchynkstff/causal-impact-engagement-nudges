@@ -3,7 +3,6 @@
 **To:** Product & Learning Experience Leadership  
 **From:** Data Analytics  
 **Subject:** Impact Evaluation of Engagement Nudge Intervention  
-**Date:** _[Insert date]_
 
 ---
 
