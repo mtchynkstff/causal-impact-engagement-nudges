@@ -85,7 +85,6 @@ All models use heteroskedasticity-robust (HC3) standard errors. The panel models
   - `01_data_generation.ipynb`: builds the synthetic dataset and documents the built-in effects
   - `02_experimental_validation.ipynb`: baseline balance, pre-period trends, and placebo test
   - `03_difference_in_differences.ipynb`: main DiD estimate, secondary outcomes, heterogeneity, robustness check, and cumulative effects
-- `decision_memo.md`
 - `README.md`
 
 ## Interpretation
